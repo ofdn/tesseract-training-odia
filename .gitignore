@@ -1,0 +1,8 @@
+tesstrain/
+tessdata_best/
+fonts/
+ground-truth/
+lstmf/
+output/
+*.log
+.DS_Store
